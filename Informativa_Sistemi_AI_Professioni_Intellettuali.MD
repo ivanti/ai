@@ -1,5 +1,3 @@
-# INFORMATIVA SULL'UTILIZZO DI SISTEMI DI INTELLIGENZA ARTIFICIALE  
-(ai sensi dell’art. 13, Legge 28 marzo 2025, n. 132)
 
 ## ⚖️ Avvertenza e licenza
 
@@ -13,7 +11,8 @@ L’autore declina ogni responsabilità per l’uso improprio, parziale o non ag
 **Licenza:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
 © 2025 [Ivan Tizzanini](https://github.com/) – È consentito copiare, modificare e ridistribuire il presente documento, anche per fini commerciali, purché venga attribuita la paternità originale.
 
-## 📘 Informativa al Cliente
+## INFORMATIVA SULL'UTILIZZO DI SISTEMI DI INTELLIGENZA ARTIFICIALE  
+(ai sensi dell’art. 13, Legge 28 marzo 2025, n. 132)
 
 Gentile Cliente,  
 
