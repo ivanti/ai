@@ -1,16 +1,3 @@
-
-## ⚖️ Avvertenza e licenza
-
-Il presente modello di **“Informativa sull’utilizzo di sistemi di intelligenza artificiale”** è rilasciato a titolo gratuito per fini divulgativi e di condivisione delle buone pratiche.
-
-Non costituisce consulenza legale né documento standard vincolante.  
-Ogni professionista o studio è tenuto ad **adattarne il contenuto** al proprio contesto operativo e alle specifiche attività svolte, verificandone la conformità alla normativa applicabile.
-
-L’autore declina ogni responsabilità per l’uso improprio, parziale o non aggiornato del modello.
-
-**Licenza:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
-© 2025 [Ivan Tizzanini](https://github.com/) – È consentito copiare, modificare e ridistribuire il presente documento, anche per fini commerciali, purché venga attribuita la paternità originale.
-
 ## INFORMATIVA SULL'UTILIZZO DI SISTEMI DI INTELLIGENZA ARTIFICIALE  
 (ai sensi dell’art. 13, Legge 28 marzo 2025, n. 132)
 
