@@ -5,11 +5,17 @@ Gentile Cliente,
 
 ai sensi dell'art. 13 della legge 28 marzo 2025, n. 132, il Professionista/lo Studio/la Società, Le fornisce informazioni in merito ai sistemi di intelligenza artificiale (di seguito "Sistemi di IA") di cui si avvale o potrebbe avvalersi per attività strumentali e di supporto.
 I Sistemi IA eventualmente impiegati sono basati su modelli linguistici avanzati e algoritmi di machine learning, utilizzati per attività quali:
+
 •	Elaborazione e generazione di contenuti testuali (bozze di documenti, sintesi, comunicazioni)
+
 •	Analisi e interpretazione di dati, documenti e informazioni
+
 •	Ricerca e aggregazione di fonti normative, giurisprudenziali e dottrinali
+
 •	Supporto conversazionale e assistenza operativa
+
 •	Automazione di processi e workflow amministrativi
+
 •	Altre attività strumentali: _____________________________________
 
 I Sistemi di IA possono avere più o meno autonomia operativa nell’ambito delle richieste assegnate, ma in ogni caso sono soggette alla supervisione umana rispetto all’output finale.
