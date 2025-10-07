@@ -22,15 +22,19 @@ I Sistemi di IA possono avere più o meno autonomia operativa nell’ambito dell
 
 ### CARATTERISTICHE TECNICHE E LOCALIZZAZIONE
 I Sistemi di IA sono implementati mediante infrastrutture tecnologiche e piattaforme software, interne o fornite da soggetti terzi, nel rispetto degli standard di sicurezza e protezione dei dati.
+
 I fornitori dei Sistemi di IA hanno sede in: Italia / Unione Europea / Paesi extra-UE dotati di adeguate garanzie di protezione dei dati personali ai sensi della normativa applicabile.
 
 ### AMBITO E FINALITÀ DELL'UTILIZZO
 L'utilizzo dei sistemi di IA garantisce la prevalenza del lavoro intellettuale del professionista in ogni fase della prestazione. Valutazione giuridica, interpretazione normativa, formulazione di strategie e pareri legali costituiscono prerogativa esclusiva del professionista e non sono delegate ai sistemi di IA.
+
 Ogni output generato da sistemi di IA è sottoposto a verifica critica, revisione sostanziale e adattamento al caso concreto da parte del professionista. L'utilizzo dell'IA non sostituisce in alcun modo il giudizio, la competenza e la responsabilità professionale.
+
 I sistemi di IA presentano limitazioni intrinseche: possibilità di generare informazioni inesatte o non aggiornate; assenza di accesso in tempo reale a fonti normative; incapacità di effettuare valutazioni giuridiche autonome. Per tali ragioni, l'IA non è mai utilizzata in modo esclusivo per decisioni professionali rilevanti.
 
 ### TRATTAMENTO DEI DATI E RISERVATEZZA
 Nell'utilizzo di sistemi di IA il professionista adotta misure idonee a tutelare la riservatezza: anonimizzazione e pseudonimizzazione dei dati sensibili; esclusione di informazioni strategiche riservate o coperte da segreto professionale; valutazione preventiva del rischio in relazione alla natura dei dati trattati.
+
 Il professionista garantisce il pieno rispetto della normativa vigente sul trattamento e la protezione dei dati personali (Regolamento UE 2016/679, D.Lgs. 196/2003 e successive modifiche), come da specifica informativa privacy allegata all'incarico professionale.
 
 ---
