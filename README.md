@@ -1,5 +1,4 @@
-# ai
-AI Legal Stuff
+# AI Legal Stuff
 Avvertenza
 Il presente modello di “Informativa sull’utilizzo di sistemi di intelligenza artificiale” è reso disponibile a titolo gratuito per fini divulgativi e di condivisione delle buone pratiche.
 Non costituisce consulenza legale né documento standard vincolante.
