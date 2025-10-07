@@ -1,8 +1,6 @@
 # INFORMATIVA SULL'UTILIZZO DI SISTEMI DI INTELLIGENZA ARTIFICIALE  
 (ai sensi dell’art. 13, Legge 28 marzo 2025, n. 132)
 
----
-
 ## ⚖️ Avvertenza e licenza
 
 Il presente modello di **“Informativa sull’utilizzo di sistemi di intelligenza artificiale”** è rilasciato a titolo gratuito per fini divulgativi e di condivisione delle buone pratiche.
@@ -15,15 +13,11 @@ L’autore declina ogni responsabilità per l’uso improprio, parziale o non ag
 **Licenza:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
 © 2025 [Ivan Tizzanini](https://github.com/) – È consentito copiare, modificare e ridistribuire il presente documento, anche per fini commerciali, purché venga attribuita la paternità originale.
 
----
-
 ## 📘 Informativa al Cliente
 
 Gentile Cliente,  
 
 ai sensi dell’art. 13 della legge 28 marzo 2025, n. 132, il Professionista / lo Studio / la Società Le fornisce informazioni in merito ai **sistemi di intelligenza artificiale** (di seguito “Sistemi di IA”) di cui si avvale o potrebbe avvalersi per attività strumentali e di supporto.
-
----
 
 ### 1. Attività per le quali possono essere impiegati Sistemi di IA
 
@@ -38,8 +32,6 @@ I Sistemi di IA eventualmente utilizzati sono basati su modelli linguistici avan
 
 Tali sistemi operano sempre sotto la **supervisione diretta del professionista**, che ne verifica i risultati e ne determina l’uso finale.
 
----
-
 ### 2. Caratteristiche tecniche e localizzazione
 
 I Sistemi di IA sono implementati tramite infrastrutture tecnologiche e piattaforme software, interne o fornite da soggetti terzi, nel rispetto degli standard di sicurezza e protezione dei dati.
@@ -48,8 +40,6 @@ I fornitori dei Sistemi di IA hanno sede in:
 - Italia  
 - Unione Europea  
 - Paesi extra-UE dotati di adeguate garanzie di protezione dei dati personali ai sensi della normativa applicabile.
-
----
 
 ### 3. Ambito e finalità dell’utilizzo
 
@@ -63,8 +53,6 @@ Ogni output generato da Sistemi di IA è sottoposto a:
 
 L’uso dell’IA **non sostituisce il giudizio, la competenza e la responsabilità professionale**.
 
----
-
 ### 4. Limitazioni e rischi noti
 
 I Sistemi di IA possono presentare:
@@ -73,8 +61,6 @@ I Sistemi di IA possono presentare:
 - incapacità di effettuare valutazioni giuridiche autonome o interpretazioni contestuali.  
 
 Per tali ragioni, l’IA **non è mai utilizzata in modo esclusivo** per decisioni professionali rilevanti.
-
----
 
 ### 5. Trattamento dei dati e riservatezza
 
