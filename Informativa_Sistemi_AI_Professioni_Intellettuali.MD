@@ -10,6 +10,7 @@ I Sistemi IA eventualmente impiegati sono basati su modelli linguistici avanzati
 •	Supporto conversazionale e assistenza operativa
 •	Automazione di processi e workflow amministrativi
 •	Altre attività strumentali: _____________________________________
+
 I Sistemi di IA possono avere più o meno autonomia operativa nell’ambito delle richieste assegnate, ma in ogni caso sono soggette alla supervisione umana rispetto all’output finale.
 ### CARATTERISTICHE TECNICHE E LOCALIZZAZIONE
 I Sistemi di IA sono implementati mediante infrastrutture tecnologiche e piattaforme software, interne o fornite da soggetti terzi, nel rispetto degli standard di sicurezza e protezione dei dati.
