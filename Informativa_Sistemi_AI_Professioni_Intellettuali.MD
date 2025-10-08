@@ -1,5 +1,5 @@
 ## INFORMATIVA SULL'UTILIZZO DI SISTEMI DI INTELLIGENZA ARTIFICIALE
-(ai sensi dell’art. 13, Legge 28 marzo 2025, n. 132)
+(ai sensi dell’art. 13, Legge 23 settembre 2025, n. 132)
 
 Gentile Cliente,
 
