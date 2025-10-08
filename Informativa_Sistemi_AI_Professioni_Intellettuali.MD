@@ -8,15 +8,15 @@ I Sistemi IA eventualmente impiegati sono basati su modelli linguistici avanzati
 
 - [ ]	Elaborazione e generazione di contenuti testuali (bozze di documenti, sintesi, comunicazioni)
 
-•	Analisi e interpretazione di dati, documenti e informazioni
+- [ ] Analisi e interpretazione di dati, documenti e informazioni
 
-•	Ricerca e aggregazione di fonti normative, giurisprudenziali e dottrinali
+- [ ]	Ricerca e aggregazione di fonti normative, giurisprudenziali e dottrinali
 
-•	Supporto conversazionale e assistenza operativa
+- [ ]	Supporto conversazionale e assistenza operativa
 
-•	Automazione di processi e workflow amministrativi
+- [ ]	Automazione di processi e workflow amministrativi
 
-•	Altre attività strumentali: _____________________________________
+- [ ]	Altre attività strumentali: _____________________________________
 
 I Sistemi di IA possono avere più o meno autonomia operativa nell’ambito delle richieste assegnate, ma in ogni caso sono soggette alla supervisione umana rispetto all’output finale.
 
