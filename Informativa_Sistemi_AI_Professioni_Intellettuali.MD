@@ -40,4 +40,4 @@ Il professionista garantisce il pieno rispetto della normativa vigente sul tratt
 ---
 
 > Versione open source dell’informativa sull’uso di sistemi di intelligenza artificiale (art. 13 Legge 132/2025).  
-> Rilasciata da [Ivan Tizzanini](https://github.com/ivanti) con licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> Rilasciata da [Ivan Tizzanini](https://github.com/ivanti) con licenza [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
