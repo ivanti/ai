@@ -5,6 +5,6 @@ Non costituisce consulenza legale né documento standard vincolante.
 Ogni professionista o studio deve adattarne il contenuto al proprio contesto operativo e alle specifiche attività svolte, verificandone la conformità alla normativa applicabile.
 L’autore e gli eventuali collaboratori declinano ogni responsabilità per l’uso improprio o non aggiornato del modello.
 
-## Licenza: Creative Commons Attribution 4.0 International (CC BY 4.0)
-© 2025 Ivan Tizzanini – Rilasciato con licenza CC BY 4.0
-https://creativecommons.org/licenses/by/4.0/
+## Licenza: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+© 2025 Ivan Tizzanini – Rilasciato con licenza CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
